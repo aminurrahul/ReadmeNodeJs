@@ -32,11 +32,6 @@ const questions = [
 
 
         {type: 'input',
-        message: 'How can people contribute to your project?',
-        name: 'contribute'
-        },
-
-        {type: 'input',
         message: 'What is your GitHub user name?',
         name: 'github'
         },
